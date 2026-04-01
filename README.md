@@ -45,8 +45,6 @@
 ## 🚀 Featured Projects
 
 - 🛒 Mall System（B2B2C 架构）
-- ⚡ Async Backend（全异步设计）
-- 🧩 ClassNucleus（Python 元类调度框架）
 
 ---
 
