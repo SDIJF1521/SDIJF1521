@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 高中生 / Developer in progress  
+- 🎓 大学生
 - 💻 专注：后端开发
 - ⚡ 熟悉语言：`C` / `Python`  
 - 🚀 当前在做：商城系统
