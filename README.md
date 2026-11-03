@@ -58,7 +58,7 @@
 
 ## 🌐 Connect with Me
 
-- 🌍 Blog: https://sunguoqi.com/
+- 🌍 Blog:
 - 💬 欢迎交流技术 & 项目合作
 
 ---
